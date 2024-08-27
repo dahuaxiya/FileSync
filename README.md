@@ -46,7 +46,7 @@
 
 在zerotier建立网络后，使用得到的ip替换Recv.py中的ip即可，使用方法同局域网方法。
 
-# FileSyn: File Sync Script
+# FileSync: File Sync Script
 
 ## Introduction
 
